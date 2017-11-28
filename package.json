@@ -1,0 +1,16 @@
+{
+  "name": "problems",
+  "version": "1.0.0",
+  "main": "example.js",
+  "scripts": {
+    "test": "mocha --watch tests/**.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
